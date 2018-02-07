@@ -1,6 +1,5 @@
 function modal(element) {
     //Get the modal
-    var image = document.getElementById(element.id);
     var myModal = document.getElementById('myModal');
 
     //insert the image into the modal
@@ -19,5 +18,3 @@ var myModal = document.getElementById('myModal');
 span.onclick = function () {
     myModal.style.display = "none";
 };
-
-

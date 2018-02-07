@@ -14,23 +14,27 @@
     <div class="container">
         <!--        current content on page-->
         <a href="https://www.rhinoafrica.com/en?_ptp=1"><img class="logo" src="resources/RhinoAfricacom_RGB.png"></a>
-        <h1>Just some nice images</h1>
-        <p>This is a project for rhinoafrica.com<br>It should verify my skills a front end developer</p>
+        <h1>Wildlife gallery</h1>
+        <p>Welcome to RhinoAfrica</p>
     </div>
     <!--        where photo's and stuff go-->
     <div class="gallery">
         <!--            photo div-->
         <div class="myPhoto">
-            <img class="photo" id="photoRound" src="resources/pexels-photo-416202.jpeg" alt="" onclick="modal(this);">
+            <img class="photo" id="photoRound" src="resources/pexels-photo-416202.jpeg" alt="A really pretty owl" onclick="modal(this);">
+            <div class="text"><p></p></div>
         </div>
         <div class="myPhoto">
-            <img class="photo" id="photoRectangle" src="resources/pexels-photo-631292.jpeg" alt="" onclick="modal(this);">
+            <img class="photo" id="photoRectangle" src="resources/pexels-photo-631292.jpeg" alt="Our precious rhinos" onclick="modal(this);">
+            <div class="text"><p></p></div>
         </div>
         <div class="myPhoto">
-            <img class="photo" id="photoSquare" src="resources/pexels-photo-187842.jpeg" alt="" onclick="modal(this);">
+            <img class="photo" id="photoSquare" src="resources/pexels-photo-187842.jpeg" alt="An eagle of some kind" onclick="modal(this);">
+            <div class="text"><p></p></div>
         </div>
         <div class="myPhoto">
-            <img class="photo" id="photoTriangle" src="resources/pexels-photo-247376.jpeg" alt="" onclick="modal(this);">
+            <img class="photo" id="photoTriangle" src="resources/pexels-photo-247376.jpeg" alt="Hello little mamma let me whisper in your ear" onclick="modal(this);">
+            <div class="text"><p></p></div>
         </div>
     </div>
     <!--    Modal box-->
