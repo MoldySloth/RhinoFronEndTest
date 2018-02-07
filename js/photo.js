@@ -4,10 +4,11 @@ function modal(element) {
 
     //insert the image into the modal
     var modalImg = document.getElementById('imgModal');
-    var captionText = document.getElementById('caption');
+    // var captionText = document.getElementById('caption');
+    var href = element.getAttribute('alt');
     myModal.style.display = "block";
-    modalImg.src = element.src;
-    captionText.innerHTML = element.alt;
+    modalImg.src = href;
+    // captionText.innerHTML = element.alt;
 }
 
 //Get the <span> element that closes the modal
