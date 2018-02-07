@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b70cd59d-5928-4893-a9a5-96f6f7d2349f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/home.html" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/heroku/heroku-buildpack-php/conf/apache2/default_include.conf" afterPath="$PROJECT_DIR$/vendor/heroku/heroku-buildpack-php/conf/apache2/default_include.conf" />
-      <change beforePath="$PROJECT_DIR$/vendor/heroku/heroku-buildpack-php/support/build/_conf/apache2/httpd.conf" afterPath="$PROJECT_DIR$/vendor/heroku/heroku-buildpack-php/support/build/_conf/apache2/httpd.conf" />
-    </list>
+    <list default="true" id="b70cd59d-5928-4893-a9a5-96f6f7d2349f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +78,7 @@
             <entry file="file://$PROJECT_DIR$/Procfile">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
-                  <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+                  <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
                   <folding />
                 </state>
               </provider>
@@ -269,12 +263,12 @@
       <workItem from="1517839358961" duration="1047000" />
       <workItem from="1517840418638" duration="1621000" />
       <workItem from="1517903722042" duration="27483000" />
-      <workItem from="1517989560290" duration="12154000" />
+      <workItem from="1517989560290" duration="12606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43915000" />
+    <option name="totallyTimeSpent" value="44367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -419,7 +413,7 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding />
         </state>
       </provider>
